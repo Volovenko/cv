@@ -453,3 +453,9 @@ span{
 .contacts-text{
   text-align: center;
 }
+
+.phone {
+  color: #ffffff;
+  text-align: center;
+  font-size: 20px;
+}
